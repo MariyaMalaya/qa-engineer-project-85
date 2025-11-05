@@ -1,3 +1,129 @@
 - summary: |
+    Открытие формы "Зарегистрироваться" (Sing up) 
+  status: pass
+
+- summary: |
+    Регистрация пользователя в системе
+  status: pass
+  
+- summary: |
+   Регистрация пользователя в системе с некорр. данными
+  status: pass
+
+- summary: |
+     Регистрация пользователя в системе с пустыми полями
+  status: pass
+
+  - summary: |
+     Регистрация пользователя в системе с "пробелом" вместо букв,спец символов и цифр.
+  status: pass
+
+    - summary: |
+     Регистрация пользователя с помощью сторонних платформ
+  status: pass
+
+  - summary: |
+      Переход из формы регистрации в форму входа, при ошибочном клике на кнопку "Зарегистрироваться"
+  status: pass
+
+  - summary: |
+    Открытие формы "Войти" (Sing in)
+  status: pass
+
+  - summary: |
+    Проверка входа пользователя с существующими логином и паролем
+  status: pass
+
+  - summary: |
+    Проверка входа пользователя с НЕ существующими логином и паролем
+  status: pass
+
+  - summary: |
+    Вход пользователя с помощью сторонних платформ
+  status: pass
+
+  - summary: |
+     проверка отправки письма для восстановления пароля 
+  status: pass
+
+  - summary: |
+     Смена пароля
+  status: fail
+
+  - summary: |
+       Переход из формы входа в форму регистрации, при ошибочном клике на кнопку "вход"
+  status: pass
+
+  - summary: |
+    Кнопка "Hexlet Codebattleby Hexlet’s community"
+  status: pass
+
+  - summary: |
+       Кнопка "Star us"
+  status: pass
+
+  - summary: |
+     Значок два перекрестных меча
+  status: pass
+
+  - summary: |
+      Вкладка Меню 
+  status: pass
+
+  - summary: |
+    Окно "мой профиль"
+  status: pass
+
+  - summary: |
+    Вкладка статистика в профиле игрока
+  status: pass
+
+  - summary: |
+      Вкладка завершенные игры
+  status: pass
+
+  - summary: |
+    Кнопка "Show" в таблице рейтинга пользователя
+  status: fail
+
+  - summary: |
+    Проверка закладок "Hall of fame", "Tournaments", "Tasks", "Clans"
+  status: pass
+
+  - summary: |
+    Проверка закладки "Tournaments"
+  status: pass
+
+  - summary: |
+     Проверка фильтра по месяцам в "Tournaments", раздел Contests history
+  status: pass
+
+  - summary: |
+     Проверка фильтра  "mouth" "day" "agenda" в "Tournaments", раздел Contests history
+  status: pass
+
+  - summary: |
     
   status: pass
+
+  - summary: |
+   
+  status: pass
+
+  - summary: |
+     
+  status: pass
+
+  - summary: |
+    
+  status: pass
+
+  - summary: |
+     
+  status: pass
+
+  - summary: |
+    
+  status: pass
+
+
