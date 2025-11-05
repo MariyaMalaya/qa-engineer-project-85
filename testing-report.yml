@@ -103,11 +103,11 @@
   status: pass
 
   - summary: |
-    
+        Проверка вкладки "Clans"
   status: pass
 
   - summary: |
-   
+       Проверка вкладки "Выход" (sign out)
   status: pass
 
   - summary: |
