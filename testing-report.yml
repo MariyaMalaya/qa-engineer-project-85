@@ -14,190 +14,186 @@
      Регистрация пользователя в системе с пустыми полями
   status: pass
 
-  - summary: |
+- summary: |
      Регистрация пользователя в системе с "пробелом" вместо букв,спец символов и цифр.
   status: pass
 
-    - summary: |
+- summary: |
      Регистрация пользователя с помощью сторонних платформ
   status: pass
 
-  - summary: |
+- summary: |
       Переход из формы регистрации в форму входа, при ошибочном клике на кнопку "Зарегистрироваться"
   status: pass
 
-  - summary: |
+- summary: |
     Открытие формы "Войти" (Sing in)
   status: pass
 
-  - summary: |
+- summary: |
     Проверка входа пользователя с существующими емайлом и паролем
   status: pass
 
-  - summary: |
+- summary: |
     Проверка входа пользователя с НЕ существующими емайлом и паролем
   status: pass
 
-  - summary: |
+- summary: |
     Вход пользователя с помощью сторонних платформ
   status: pass
 
-  - summary: |
+- summary: |
      проверка отправки письма для восстановления пароля 
   status: pass
 
-  - summary: |
+- summary: |
      Смена пароля
   status: fail
 
-  - summary: |
+- summary: |
        Переход из формы входа в форму регистрации, при ошибочном клике на кнопку "вход"
   status: pass
 
-  - summary: |
+- summary: |
     Кнопка "Hexlet Codebattleby Hexlet’s community"
   status: pass
-
-  - summary: |
+  
+- summary: |
        Кнопка "Star us"
   status: pass
 
-  - summary: |
+- summary: |
      Значок два перекрестных меча
   status: pass
 
-  - summary: |
+- summary: |
       Вкладка Меню 
   status: pass
 
-  - summary: |
+- summary: |
     Окно "мой профиль"
   status: pass
 
-  - summary: |
+- summary: |
     Вкладка статистика в профиле игрока
   status: pass
 
-  - summary: |
+- summary: |
       Вкладка завершенные игры
   status: pass
 
-  - summary: |
+- summary: |
     Кнопка "Show" в таблице рейтинга пользователя
   status: fail
 
-  - summary: |
+- summary: |
     Проверка закладок "Hall of fame", "Tournaments", "Tasks", "Clans"
   status: pass
 
-  - summary: |
+- summary: |
     Проверка закладки "Tournaments"
   status: pass
 
-  - summary: |
+- summary: |
      Проверка фильтра по месяцам в "Tournaments", раздел Contests history
   status: pass
 
-  - summary: |
+- summary: |
      Проверка фильтра  "mouth" "day" "agenda" в "Tournaments", раздел Contests history
   status: pass
 
-  - summary: |
+- summary: |
         Проверка вкладки "Clans"
   status: pass
 
-  - summary: |
+- summary: |
        Проверка вкладки "Выход" (sign out)
   status: pass
 
-  - summary: |
+- summary: |
      Проверка смены языка сайта с английского на русский
   status: fail
 
-  - summary: |
+- summary: |
     Проверка смены языка сайта c русского на английский
   status: pass
 
-  - summary: |
+- summary: |
      Проверка смены языка задачи во время игры с Англ. на Рус.
   status: pass
 
-  - summary: |
+- summary: |
      Проверка смены языка задачи во время игры  с Рус. на Англ.
   status: pass
 
-   - summary: |
+- summary: |
     Проверка смены языка программирования в настройках профиля
   status: fail
 
- - summary: |
+- summary: |
       Проверка выпадающего окна в настройках профиля при смене языка програмирования
   status: fail
 
- - summary: |
+- summary: |
     Проверка пробной игры без авторизации пользователя
   status: pass
 
- - summary: |
+- summary: |
     Создание игры с ботом
   status: pass
 
- - summary: |
+- summary: |
       Создание игры другом
   status: pass
 
- - summary: |
+- summary: |
       Создание игры с рандомным игроком
   status: pass
 
- - summary: |
+- summary: |
     Проверка повторного входа в запущенную игру
   status: pass
 
- - summary: |
+- summary: |
     Проверка функции синтаксиса в решении задачи
   status: pass
 
- - summary: |
+- summary: |
     Проверка функции очистка поля от введенных данных
   status: pass
 
- - summary: |
+- summary: |
     Проверка функции "признать поражение"
   status: pass
 
- - summary: |
+- summary: |
         Проверка функции окончания игры по исходу времени
   status: pass
 
- - summary: |
+- summary: |
     Проверка окончания игры при поражении
   status: pass
 
- - summary: |
+- summary: |
     Отправка сообщения в чат сообщества
   status: pass
 
- - summary: |
+- summary: |
     Отправка сообщения в чат во время игры
   status: pass
 
- - summary: |
+- summary: |
     Проверка кросс-браузерности сайта
   status: pass
 
- - summary: |
+- summary: |
     Проверка сайта в мобильной версии
   status: fail
 
- - summary: |
+- summary: |
      
   status: pass
 
- - summary: |
+- summary: |
     
   status: pass
-
-
-
-
