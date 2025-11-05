@@ -516,13 +516,13 @@
   expected-result: |
     Происходит смена языка программирования для решения задачи, а так же его логотип
 
------------
+
 
 - summary: |
     Проверка пробной игры без авторизации пользователя
   requirement: |
     Пользователь играет без авторизации и регистрации
-   prerequisites: 
+  prerequisites: 
     Пользователь не авторизован
   test-data: |
    try simple buttle
@@ -582,19 +582,19 @@
    отображается сообщение: Waiting for an opponent Please wait for someone to join or send an invite using the link below (пригласительная ссылка)
    с возможностью копирования ссылки для отправки пригласительного в игру, или же удаление созданной игры
 
- - summary: |
+- summary:|
     Проверка повторного входа в запущенную игру
-  requirement: |
+  requirement:|
     Можно выйти из игры на главную и зайти обратно
-  prerequisites:
+  prerequisites:|
     Пользователь авторизован, запущена игра 
-  test-data: |
+  test-data:|
     
-  steps:
+  steps:|
     - Нажимаем "Back to Home"
     - Происходит переход на главную
     - Нажимаем кнопку "Continue  to battle" 
-  expected-result: |
+  expected-result:|
     В течение игры возможность выхода и входа без прерывания игрового процесса 
 
 - summary: |
@@ -641,7 +641,7 @@
     - Появляется сообщение "Are you sure you want to give up?"
     - Выбираем "Give Up"
   expected-result: |
-  появляется сообщение "If you read this you've lost the game" и анимацией. Игра останавливается
+   появляется сообщение "If you read this you've lost the game" и анимацией. Игра останавливается
 
 - summary: |
     Проверка  функции окончания игры по исходу времени
@@ -736,9 +736,3 @@
    
 
     
-
-
-
-
-
-
