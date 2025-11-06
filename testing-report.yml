@@ -190,10 +190,3 @@
     Проверка сайта в мобильной версии
   status: fail
 
-- summary: |
-     
-  status: pass
-
-- summary: |
-    
-  status: pass
