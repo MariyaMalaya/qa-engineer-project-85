@@ -84,7 +84,7 @@
 
 - summary: |
     Кнопка "Show" в таблице рейтинга пользователя
-  status: fail
+  status: pass
 
 - summary: |
     Проверка закладок "Hall of fame", "Tournaments", "Tasks", "Clans"
