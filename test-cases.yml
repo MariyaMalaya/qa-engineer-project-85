@@ -677,11 +677,12 @@
   prerequisites:
     Пользователь авторизован, запущена игра 
   test-data: |
-    Задание: digits_validator.
-    Язык решения:Phyton
+    Задание: rect_area
+    Язык решения: NodeJS
     Решение: 
-     if input_string.isdigit():
-     return "Valid"
+     const _ = require("lodash"); const R = require("rambda");
+     const solution = (width, length) => { return width * length; };
+     module.exports = solution;
   steps:
     - В окне написания кода, воспроизводим решение задачи на выбранном языке программирования
     - Нажимаем кнопку "RUN" над оконом редактора 
